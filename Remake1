@@ -68,7 +68,7 @@ notifications:message{
 
 wait(5)
 
-loadstring(game:HttpGet(("https://pastebin.com/raw/WM0d9vbf"),true))()
+loadstring(game:HttpGet(("https://pastebin.com/raw/HJqVnN6M"),true))()
 
 notifications:message{
     Title = "Yuri <font color='rgb(148, 0, 211)'>X</font> - v5.0",
